@@ -1,0 +1,54 @@
+[
+    {
+        "src": "./logos/react.svg",
+        "alt": "React"
+    },
+    {
+        "src": "./logos/next.webp",
+        "alt": "Next"
+    },
+    {
+        "alt": "Prisma",
+        "src": "./logos/prisma.png"
+    },
+    {
+        "alt": "Css",
+        "src": "./logos/css.svg"
+    },
+    {
+        "alt": "HTML",
+        "src": "./logos/html5.svg"
+    },
+    {
+        "alt": "Nodejs",
+        "src": "./logos/node-js.svg"
+    },
+    {
+        "alt": "Javascript",
+        "src": "./logos/javascript.svg"
+    },
+    {
+        "alt": "Typescript",
+        "src": "./logos/typescript.svg"
+    },
+    {
+        "alt": "Git",
+        "src": "./logos/git.svg"
+    },
+    {
+        "alt": "Github",
+        "src": "./logos/github.svg"
+    },
+    {
+        "alt": "MySQL",
+        "src": "./logos/mysql.svg"
+    },
+    {
+        "alt": "PostgreSQL",
+        "src": "./logos/postgresql.svg"
+    },
+    {
+        "alt": "Python",
+        "src": "./logos/python.svg"
+    }
+]
